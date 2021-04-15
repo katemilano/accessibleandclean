@@ -1,4 +1,4 @@
-# homework1
+# Accessible and Clean Webpage
 About:
 This is the first weeks assignment working to fix the webpage below.  The new webpage must be able to meet accessibility standards, have semantic code, and have structured HTML and CSS elements and styling.
 
